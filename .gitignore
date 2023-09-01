@@ -1,0 +1,8 @@
+venv
+config
+backup
+test.py
+.idea
+data
+logs
+records
